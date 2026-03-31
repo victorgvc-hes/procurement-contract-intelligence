@@ -1,0 +1,15 @@
+anthropic
+langchain
+langchain-community
+langchain-text-splitters
+pymupdf
+chromadb
+duckdb
+pydantic
+streamlit
+plotly
+pandas
+matplotlib
+sentence-transformers
+python-dotenv
+pytest
