@@ -300,4 +300,9 @@ MIT
 
 ## Author
 
-Victor Vergara
+**Victor Vergara**
+- LinkedIn: https://www.linkedin.com/in/victor-vergara075/
+- Email: victorgvc@gmail.com
+- Portfolio: https://github.com/victorgvc-hes?tab=repositories
+
+---
