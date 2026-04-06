@@ -84,7 +84,7 @@ Design an end-to-end AI system capable of:
 
 ### Architecture Diagram
 
-![Architecture Diagram](procurement_ai_architecture_mckinsey_FINAL.png)
+![Architecture Diagram](procurement_ai_architecture.png)
 
 ### Logical flow
 
