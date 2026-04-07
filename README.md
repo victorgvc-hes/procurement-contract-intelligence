@@ -90,7 +90,7 @@ Design an end-to-end AI system capable of:
 
 ### Logical flow
 
-```mermaid id="3k9z1a"
+```mermaid
 flowchart TD
 
 A[PDF Contracts - CUAD Dataset] --> B[Ingestion Pipeline]
