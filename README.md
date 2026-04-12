@@ -303,11 +303,11 @@ MIT
 ## Author
 
 **Victor Vergara**
+
+Procurement and operations professional with 20+ years of experience in supply chain, analytics, and process improvement. Focused on applying AI/ML, forecasting, and digital transformation to real-world operational challenges.
+
 - LinkedIn: https://www.linkedin.com/in/victor-vergara075/
 - Email: victorgvc@gmail.com
 - Portfolio: https://github.com/victorgvc-hes?tab=repositories
-
-20+ years procurement & operations · Industrial Engineering · 
-Applied AI/ML in supply chain
 
 ---
